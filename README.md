@@ -1,4 +1,4 @@
-# Itregated-reservior-modelling-and-statistical-projects
+# Intregated-reservoir-modelling-and-statistical-projects
 ## project 1
 Point estimation (Estimating OIIP from samples' Sw_avg).
 ## Project 2
